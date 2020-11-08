@@ -5,7 +5,7 @@ _MyList:_
 -[x] Remove JQuery
 -[x] Add Bundler
 -[x] Remove Unused CSS
--[ ] Add Projects Section
+-[x] Add My Services
 -[ ] Convert to Svelte
 -[ ] Deploy with GH Pages
 -[ ] Create Docker version
@@ -15,3 +15,8 @@ _MyList:_
 -[ ] Add Metrics
 -[ ] Deploy local versions
 -[ ] Deploy AWS versions
+-[ ] Add Scroll Trigger for page transitions
+-[ ] Create Resume as Doc for DL
+-[ ] Add details to services
+-[ ] Add tooltips to explain resume
+

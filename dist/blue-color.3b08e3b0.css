@@ -1,125 +1,127 @@
 ::selection {
-  background: rgba(255, 100, 94, 0.3);
+  background: rgba(27, 99, 173, 0.3);
 }
 
 ::-moz-selection {
-  background: rgba(255, 100, 94, 0.3);
+  background: rgba(27, 99, 173, 0.3);
 }
 
 .pill-button {
-  color: #ff645e;
+  color: #1b63ad;
 }
 
 .pill-button:hover, .pill-button.active {
-  color: #ff645e;
+  color: #1b63ad;
 }
 
 .overlay-menu a:hover {
-  color: #ff645e !important;
+  color: #1b63ad !important;
 }
 
 .overlay-menu a.active {
-  color: #ff645e !important;
+  color: #1b63ad !important;
 }
 
 .bg-base-color {
-  background-color: #ff645e !important;
+  background-color: #1b63ad !important;
 }
 
 .base-color {
-  color: #ff645e !important;
+  color: #1b63ad !important;
 }
 
 .follow-label::before {
-  background-color: #ff645e;
+  background-color: #1b63ad;
 }
 
 .social a:hover {
-  color: #ff645e !important;
+  color: #1b63ad !important;
 }
 
 .social-icon a:hover {
-  color: #ff645e;
+  color: #1b63ad;
 }
 
 #pp-nav li:hover span {
-  background-color: #ff645e !important;
+  background-color: #1b63ad !important;
 }
 
 #pp-nav li .active span {
-  background-color: #ff645e !important;
+  background-color: #1b63ad !important;
 }
 
 .border-style {
-  background-color: #ff645e;
+  background-color: #1b63ad;
 }
 
 .timeline-icon {
-  border: 1px solid #ff645e;
-  background-color: #ff645e;
+  border: 1px solid #1b63ad;
+  background-color: #1b63ad;
 }
 
 .timeline-year {
-  color: #ff645e;
+  color: #1b63ad;
 }
 
 .timeline-item:before {
-  border: 1px solid #ff645e;
+  border: 1px solid #1b63ad;
 }
 
 .skill-box .fill-skillbar {
-  background-color: #ff645e;
+  background-color: #1b63ad;
 }
 
 .portfolio .portfolio-filter li a {
-  color: #ff645e;
+  color: #1b63ad;
 }
 
 .testimonial .owl-dot.active span {
-  background-color: #ff645e;
+  background-color: #1b63ad;
 }
 
 .blog-link a:hover {
-  color: #f05852 !important;
+  color: #135495 !important;
 }
 
 .portfolio .portfolio-item-content:before {
-  background-color: rgba(255, 100, 94, 0.9);
+  background-color: rgba(27, 99, 173, 0.9);
 }
 
 .portfolio .portfolio-icon button i, .portfolio .portfolio-icon a i {
-  color: #ff645e;
+  color: #1b63ad;
 }
 
 .testimonial .owl-carousel .owl-dot.active span {
-  background-color: #ff645e;
+  background-color: #1b63ad;
 }
 
 .contact .form-item .form-control {
-  color: #ff645e;
+  color: #1b63ad;
 }
 
 .loader {
-  border-top: 4px solid #ff645e !important;
+  border-top: 4px solid #1b63ad !important;
 }
 
 .flat-demo .button-border, .arshia-dark.flat-demo .button-border {
-  background-color: #ff645e;
+  background-color: #1b63ad;
 }
 
 .flat-demo .pill-button:hover, .flat-demo .pill-button.active {
-  background-color: #f05852;
+  background-color: #135495;
 }
 
 .arshia-dark .social-icon a:hover, .arshia-dark .social a:hover {
-  color: #ff645e !important;
+  color: #1b63ad !important;
 }
 
 .arshia-dark #pp-nav li .active span {
-  background-color: #ff645e !important;
+  background-color: #1b63ad !important;
 }
 
 .arshia-dark #pp-nav li:hover span {
-  background-color: #ff645e !important;
+  background-color: #1b63ad !important;
 }
-/*# sourceMappingURL=orange-color.css.map */
+
+
+/*# sourceMappingURL=/blue-color.3b08e3b0.css.map */
