@@ -6,8 +6,6 @@ _MyList:_
 -[x] Add Bundler
 -[x] Remove Unused CSS
 -[x] Add My Services
--[ ] Convert to Svelte
--[ ] Deploy with GH Pages
 -[ ] Create Docker version
 -[ ] Deploy with Traefik
 -[ ] Add PWA Features
@@ -19,4 +17,5 @@ _MyList:_
 -[ ] Create Resume as Doc for DL
 -[ ] Add details to services
 -[ ] Add tooltips to explain resume
-
+-[ ] Convert to Svelte
+-[ ] Deploy with GH Pages
