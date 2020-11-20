@@ -19,3 +19,4 @@ _MyList:_
 -[ ] Add tooltips to explain resume
 -[ ] Convert to Svelte
 -[ ] Deploy with GH Pages
+-[ ] Create GH Actions
